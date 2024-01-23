@@ -1,1 +1,2 @@
-print("Hi people")
+print("Hi people!")
+print("Completed!")
